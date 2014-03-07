@@ -30,6 +30,9 @@ gem 'jbuilder', '~> 1.2'
 # Install Devise
 gem 'devise'
 
+# Install Haml
+gem "haml"
+
 group :doc do
   # bundle exec rake doc:rails generates the API under doc/api.
   gem 'sdoc', require: false
